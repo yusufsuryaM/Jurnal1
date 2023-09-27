@@ -9,4 +9,3 @@ public class Jurnal1 {
         System.out.println("Kelas: " + kelas);
     }
 }
-
